@@ -1,0 +1,2 @@
+# Nasa Map Downloader
+this program will download map from [http://oceandata.sci.gsfc.nasa.gov](http://oceandata.sci.gsfc.nasa.gov) (this site is deprecated). I made this on december 2015, but I don't know why I made this stupid apps (LOL you can use IDM for this)
